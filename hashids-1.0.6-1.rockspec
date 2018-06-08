@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'hashids'
-version = '1.0.5-1'
+version = '1.0.6-1'
 -- LuaDist source
 source = {
-  tag = "1.0.5-1",
+  tag = "1.0.6-1",
   url = "git://github.com/LuaDist-testing/hashids.git"
 }
 -- Original source
 -- source = {
 --   url = 'git://github.com/leihog/hashids.lua.git',
---   tag = 'v1.0.5',
+--   tag = 'v1.0.6',
 -- }
 description = {
   summary = 'A Lua implementation of hashids',
